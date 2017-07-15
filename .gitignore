@@ -1,4 +1,6 @@
 db.sqlite3
+settings.pys
+urls.pys
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
